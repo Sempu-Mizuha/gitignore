@@ -1,0 +1,2 @@
+# gitignore
+gitignore検証
